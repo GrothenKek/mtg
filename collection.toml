@@ -1570,46 +1570,45 @@ cards = [
   { printing = "fdn/483", at = "foundations" },  # Zimone, Paradox Sculptor
   { printing = "fdn/187", qty = 2, at = "foundations" },  # Zombify
   { printing = "fdn/77", at = "foundations" },  # Zul Ashur, Lich Lord
-  { printing = "drc/20", at = "Ad Collectors" },  # Accursed Duneyard
-  { printing = "drc/34", at = "Ad Collectors" },  # Aetheric Amplifier
-  { printing = "dft/319", at = "Ad Collectors" },  # Apocalypse Runner
-  { printing = "dft/337", finish = "foil", at = "Ad Collectors" },  # Bloodghast
-  { printing = "dft/190", finish = "foil", at = "Ad Collectors" },  # Boosted Sloop
-  { printing = "dft/293", at = "Ad Collectors" },  # Broadcast Rambler
-  { printing = "dft/311", finish = "foil", at = "Ad Collectors" },  # Burner Rocket
-  { printing = "dft/40", finish = "foil", at = "Ad Collectors" },  # Caelorna, Coral Tyrant
-  { printing = "dft/9", finish = "foil", at = "Ad Collectors" },  # Cloudspire Captain
-  { printing = "dft/198", finish = "foil", at = "Ad Collectors" },  # Coalstoke Gearhulk
-  { printing = "dft/10", qty = 2, finish = "foil", at = "Ad Collectors" },  # Collision Course
-  { printing = "dft/358", at = "Ad Collectors" },  # Daretti, Rocketeer Engineer
-  { printing = "dft/200", finish = "foil", at = "Ad Collectors" },  # Dune Drifter
-  { printing = "dft/84", finish = "foil", at = "Ad Collectors" },  # Engine Rat
-  { printing = "dft/202", qty = 2, at = "Ad Collectors" },  # Explosive Getaway
-  { printing = "dft/338", at = "Ad Collectors" },  # Gas Guzzler
-  { printing = "dft/133", finish = "foil", at = "Ad Collectors" },  # Hazoret, Godseeker
-  { printing = "dft/91", finish = "foil", at = "Ad Collectors" },  # Hour of Victory
-  { printing = "dft/300", finish = "foil", at = "Ad Collectors" },  # Hulldrifter
-  { printing = "dft/273", finish = "foil", at = "Ad Collectors" },  # Island
-  { printing = "dft/135", finish = "foil", at = "Ad Collectors" },  # Kickoff Celebrations
-  { printing = "drc/27", at = "Ad Collectors" },  # Lost Monarch of Ifnir
-  { printing = "dft/167", finish = "foil", at = "Ad Collectors" },  # Loxodon Surveyor
-  { printing = "dft/365", finish = "foil", at = "Ad Collectors" },  # Mendicant Core, Guidelight
-  { printing = "dft/275", finish = "foil", at = "Ad Collectors" },  # Mountain
-  { printing = "dft/52", finish = "foil", at = "Ad Collectors" },  # Mu Yanling, Wind Rider
-  { printing = "dft/258", qty = 2, finish = "foil", at = "Ad Collectors" },  # Night Market
-  { printing = "dft/141", finish = "foil", at = "Ad Collectors" },  # Pedal to the Metal
-  { printing = "dft/272", finish = "foil", at = "Ad Collectors" },  # Plains
-  { printing = "dft/101", qty = 2, finish = "foil", at = "Ad Collectors" },  # Ripclaw Wrangler
-  { printing = "dft/367", at = "Ad Collectors" },  # Samut, the Driving Force
-  { printing = "dft/60", finish = "foil", at = "Ad Collectors" },  # Scrounging Skyray
-  { printing = "dft/243", finish = "foil", at = "Ad Collectors" },  # Skybox Ferry
-  { printing = "dft/314", finish = "foil", at = "Ad Collectors" },  # Spire Mechcycle
-  { printing = "dft/373", qty = 2, at = "Ad Collectors" },  # Sunbillow Verge
-  { printing = "dft/31", finish = "foil", at = "Ad Collectors" },  # Sundial, Dawn Tyrant
-  { printing = "dft/148", finish = "foil", at = "Ad Collectors" },  # Thunderhead Gunner
-  { printing = "dft/33", finish = "foil", at = "Ad Collectors" },  # Tune Up
-  { printing = "dft/149", at = "Ad Collectors" },  # Tyrox, Saurid Tyrant
-  { printing = "dft/318", at = "Ad Collectors" },  # Veloheart Bike
+  { printing = "drc/20", at = "All" },  # Accursed Duneyard
+  { printing = "drc/34", at = "All" },  # Aetheric Amplifier
+  { printing = "dft/319", at = "All" },  # Apocalypse Runner
+  { printing = "dft/337", finish = "foil", at = "All" },  # Bloodghast
+  { printing = "dft/190", finish = "foil", at = "All" },  # Boosted Sloop
+  { printing = "dft/293", at = "All" },  # Broadcast Rambler
+  { printing = "dft/311", finish = "foil", at = "All" },  # Burner Rocket
+  { printing = "dft/40", finish = "foil", at = "All" },  # Caelorna, Coral Tyrant
+  { printing = "dft/9", finish = "foil", at = "All" },  # Cloudspire Captain
+  { printing = "dft/198", finish = "foil", at = "All" },  # Coalstoke Gearhulk
+  { printing = "dft/10", qty = 2, finish = "foil", at = "All" },  # Collision Course
+  { printing = "dft/358", at = "All" },  # Daretti, Rocketeer Engineer
+  { printing = "dft/200", finish = "foil", at = "All" },  # Dune Drifter
+  { printing = "dft/84", finish = "foil", at = "All" },  # Engine Rat
+  { printing = "dft/338", at = "All" },  # Gas Guzzler
+  { printing = "dft/133", finish = "foil", at = "All" },  # Hazoret, Godseeker
+  { printing = "dft/91", finish = "foil", at = "All" },  # Hour of Victory
+  { printing = "dft/300", finish = "foil", at = "All" },  # Hulldrifter
+  { printing = "dft/273", finish = "foil", at = "All" },  # Island
+  { printing = "dft/135", finish = "foil", at = "All" },  # Kickoff Celebrations
+  { printing = "drc/27", at = "All" },  # Lost Monarch of Ifnir
+  { printing = "dft/167", finish = "foil", at = "All" },  # Loxodon Surveyor
+  { printing = "dft/365", finish = "foil", at = "All" },  # Mendicant Core, Guidelight
+  { printing = "dft/275", finish = "foil", at = "All" },  # Mountain
+  { printing = "dft/52", finish = "foil", at = "All" },  # Mu Yanling, Wind Rider
+  { printing = "dft/258", qty = 2, finish = "foil", at = "All" },  # Night Market
+  { printing = "dft/141", finish = "foil", at = "All" },  # Pedal to the Metal
+  { printing = "dft/272", finish = "foil", at = "All" },  # Plains
+  { printing = "dft/101", qty = 2, finish = "foil", at = "All" },  # Ripclaw Wrangler
+  { printing = "dft/367", at = "All" },  # Samut, the Driving Force
+  { printing = "dft/60", finish = "foil", at = "All" },  # Scrounging Skyray
+  { printing = "dft/243", finish = "foil", at = "All" },  # Skybox Ferry
+  { printing = "dft/314", finish = "foil", at = "All" },  # Spire Mechcycle
+  { printing = "dft/373", qty = 2, at = "All" },  # Sunbillow Verge
+  { printing = "dft/31", finish = "foil", at = "All" },  # Sundial, Dawn Tyrant
+  { printing = "dft/148", finish = "foil", at = "All" },  # Thunderhead Gunner
+  { printing = "dft/33", finish = "foil", at = "All" },  # Tune Up
+  { printing = "dft/149", at = "All" },  # Tyrox, Saurid Tyrant
+  { printing = "dft/318", at = "All" },  # Veloheart Bike
   { printing = "dft/250", at = "All" },  # Bleachbone Verge
   { printing = "dft/113", at = "All" },  # Boommobile
   { printing = "dft/191", at = "All" },  # Brightglass Gearhulk
@@ -1624,7 +1623,7 @@ cards = [
   { printing = "dft/199", qty = 2, at = "All" },  # Debris Beetle
   { printing = "dft/83", at = "All" },  # Demonic Junker
   { printing = "dft/158", qty = 2, at = "All" },  # District Mascot
-  { printing = "dft/202", at = "All" },  # Explosive Getaway
+  { printing = "dft/202", qty = 3, at = "All" },  # Explosive Getaway
   { printing = "dft/346", at = "All" },  # Fearless Swashbuckler
   { printing = "dft/386", qty = 2, at = "All" },  # Full Throttle
   { printing = "dft/85", qty = 2, at = "All" },  # Gas Guzzler
@@ -5505,7 +5504,6 @@ omnath = {}
 "mh3 rares" = {}
 duskmourn = {}
 foundations = {}
-"Ad Collectors" = {}
 "Tarkir Dragonstorm" = {}
 "MSH Rares" = {}
 "wilds of eldraine rares" = {}
