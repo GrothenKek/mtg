@@ -344,90 +344,90 @@ cards = [
   { printing = "otj/237", qty = 2, at = "otj rares" },  # Vraska, the Silencer
   { printing = "big/7", at = "otj rares" },  # Worldwalker Helm
   { printing = "otj/239", qty = 2, at = "otj rares" },  # Wylie Duke, Atiin Hero
-  { printing = "m19/4", at = "White folder" },  # Ajani's Last Stand
-  { printing = "cmr/4", at = "White folder" },  # Alharu, Solemn Ritualist
-  { printing = "mic/79", at = "White folder" },  # Angel of Glory's Rise
-  { printing = "jmp/85", at = "White folder" },  # Angel of the Dire Hour
-  { printing = "5ed/7", at = "White folder" },  # Armageddon
-  { printing = "cmr/11", at = "White folder" },  # Armored Skyhunter
-  { printing = "cmr/618", at = "White folder" },  # Austere Command
-  { printing = "c20/77", at = "White folder" },  # Banisher Priest
-  { printing = "mic/80", at = "White folder" },  # Bastion Protector
-  { printing = "j22/157", at = "White folder" },  # Blessed Sanctuary
-  { printing = "jmp/95", qty = 2, at = "White folder" },  # Cathars' Crusade
-  { printing = "m20/10", at = "White folder" },  # Cavalier of Dawn
-  { printing = "mic/43", at = "White folder" },  # Celestial Judgment
-  { printing = "mic/81", at = "White folder" },  # Citadel Siege
-  { printing = "grn/4", qty = 2, at = "White folder" },  # Citywide Bust
-  { printing = "mic/82", at = "White folder" },  # Cleansing Nova
-  { printing = "pm21/13p", at = "White folder" },  # Containment Priest
-  { printing = "mic/6", at = "White folder" },  # Curse of Conformity
-  { printing = "pmid/15s", finish = "foil", at = "White folder" },  # Curse of Silence
-  { printing = "voc/82", at = "White folder" },  # Custodi Soulbinders
-  { printing = "grn/8", at = "White folder" },  # Dawn of Hope
-  { printing = "c20/84", at = "White folder" },  # Dearly Departed
-  { printing = "mic/84", at = "White folder" },  # Dearly Departed
-  { printing = "snc/10", at = "White folder" },  # Depopulate
-  { printing = "c20/87", at = "White folder" },  # Devout Chaplain
-  { printing = "iko/11", at = "White folder" },  # Drannith Magistrate
-  { printing = "ncc/197", at = "White folder" },  # Duelist's Heritage
-  { printing = "snc/11", finish = "foil", at = "White folder" },  # Elspeth Resplendent
-  { printing = "mid/17", at = "White folder" },  # Enduring Angel // Angelic Enforcer
-  { printing = "psnc/12s", finish = "foil", at = "White folder" },  # Extraction Specialist
-  { printing = "mid/18", at = "White folder" },  # Fateful Absence
-  { printing = "xln/13", at = "White folder" },  # Goring Ceratops
-  { printing = "mic/86", at = "White folder" },  # Herald of War
-  { printing = "rna/11", qty = 2, at = "White folder" },  # Hero of Precinct One
-  { printing = "jmp/108", at = "White folder" },  # High Sentinels of Arashin
-  { printing = "ddn/66", qty = 2, at = "White folder" },  # Hold the Line
-  { printing = "mic/87", at = "White folder" },  # Hour of Reckoning
-  { printing = "war/18", at = "White folder" },  # Ignite the Beacon
-  { printing = "rna/12", at = "White folder" },  # Impassioned Orator
-  { printing = "c20/91", at = "White folder" },  # Increasing Devotion
-  { printing = "jmp/113", at = "White folder" },  # Isamaru, Hound of Konda
-  { printing = "cmr/28", at = "White folder" },  # Keleth, Sunmane Familiar
-  { printing = "c20/93", at = "White folder" },  # Knight of the White Orchid
-  { printing = "mic/88", at = "White folder" },  # Knight of the White Orchid
-  { printing = "jmp/116", qty = 2, at = "White folder" },  # Kor Spiritdancer
-  { printing = "grn/18", finish = "foil", at = "White folder" },  # Ledev Guardian
-  { printing = "m19/23", at = "White folder" },  # Leonin Warleader
-  { printing = "grn/19", at = "White folder" },  # Light of the Legion
-  { printing = "rna/15", finish = "foil", at = "White folder" },  # Lumbering Battlement
-  { printing = "c20/94", at = "White folder" },  # Magus of the Disk
-  { printing = "c20/28", at = "White folder" },  # Martial Impetus
-  { printing = "ema/19", at = "White folder" },  # Mesa Enchantress
-  { printing = "mic/89", at = "White folder" },  # Mikaeus, the Lunarch
-  { printing = "mic/7", at = "White folder" },  # Moorland Rescuer
-  { printing = "c20/96", qty = 2, at = "White folder" },  # Odric, Master Tactician
-  { printing = "hou/19", at = "White folder" },  # Overwhelming Splendor
-  { printing = "m21/29", finish = "foil", at = "White folder" },  # Pack Leader
-  { printing = "war/24", at = "White folder" },  # Parhelion II
-  { printing = "cmr/38", at = "White folder" },  # Prava of the Steel Legion
-  { printing = "xln/27", at = "White folder" },  # Priest of the Wakening Sun
-  { printing = "cmr/40", at = "White folder" },  # Radiant, Serra Archangel
-  { printing = "m19/33", finish = "foil", at = "White folder" },  # Remorseful Cleric
-  { printing = "mic/93", at = "White folder" },  # Riders of Gavony
-  { printing = "c20/98", at = "White folder" },  # Riders of Gavony
-  { printing = "iko/28", at = "White folder" },  # Sanctuary Lockdown
-  { printing = "xln/33", at = "White folder" },  # Sanguine Sacrament
-  { printing = "m19/284", at = "White folder" },  # Serra's Guardian
-  { printing = "mid/33", qty = 2, at = "White folder" },  # Sigarda's Splendor
-  { printing = "mic/8", at = "White folder" },  # Sigarda's Vanguard
-  { printing = "war/30", qty = 2, at = "White folder" },  # Single Combat
-  { printing = "cmr/47", at = "White folder" },  # Slash the Ranks
-  { printing = "cmr/50", at = "White folder" },  # Soul of Eternity
-  { printing = "rtr/24", at = "White folder" },  # Sphere of Safety
-  { printing = "mic/9", at = "White folder" },  # Stalwart Pathlighter
-  { printing = "c20/103", at = "White folder" },  # Thalia's Lieutenant
-  { printing = "c20/104", at = "White folder" },  # Thraben Doomsayer
-  { printing = "thb/40", at = "White folder" },  # Transcendent Envoy
-  { printing = "c20/1", finish = "foil", at = "White folder" },  # Trynn, Champion of Freedom
-  { printing = "mic/95", at = "White folder" },  # Unbreakable Formation
-  { printing = "rna/29", finish = "foil", at = "White folder" },  # Unbreakable Formation
-  { printing = "c20/106", at = "White folder" },  # Unexpectedly Absent
-  { printing = "pgrn/30p", at = "White folder" },  # Venerated Loxodon
-  { printing = "mic/96", at = "White folder" },  # Victory's Envoy
-  { printing = "mic/10", at = "White folder" },  # Wall of Mourning
+  { printing = "m19/4", at = "All" },  # Ajani's Last Stand
+  { printing = "cmr/4", at = "All" },  # Alharu, Solemn Ritualist
+  { printing = "mic/79", at = "All" },  # Angel of Glory's Rise
+  { printing = "jmp/85", at = "All" },  # Angel of the Dire Hour
+  { printing = "5ed/7", at = "All" },  # Armageddon
+  { printing = "cmr/11", at = "All" },  # Armored Skyhunter
+  { printing = "cmr/618", at = "All" },  # Austere Command
+  { printing = "c20/77", at = "All" },  # Banisher Priest
+  { printing = "mic/80", at = "All" },  # Bastion Protector
+  { printing = "j22/157", at = "All" },  # Blessed Sanctuary
+  { printing = "jmp/95", qty = 2, at = "All" },  # Cathars' Crusade
+  { printing = "m20/10", at = "All" },  # Cavalier of Dawn
+  { printing = "mic/43", at = "All" },  # Celestial Judgment
+  { printing = "mic/81", at = "All" },  # Citadel Siege
+  { printing = "grn/4", qty = 2, at = "All" },  # Citywide Bust
+  { printing = "mic/82", at = "All" },  # Cleansing Nova
+  { printing = "pm21/13p", at = "All" },  # Containment Priest
+  { printing = "mic/6", at = "All" },  # Curse of Conformity
+  { printing = "pmid/15s", finish = "foil", at = "All" },  # Curse of Silence
+  { printing = "voc/82", at = "All" },  # Custodi Soulbinders
+  { printing = "grn/8", at = "All" },  # Dawn of Hope
+  { printing = "c20/84", at = "All" },  # Dearly Departed
+  { printing = "mic/84", at = "All" },  # Dearly Departed
+  { printing = "snc/10", at = "All" },  # Depopulate
+  { printing = "c20/87", at = "All" },  # Devout Chaplain
+  { printing = "iko/11", at = "All" },  # Drannith Magistrate
+  { printing = "ncc/197", at = "All" },  # Duelist's Heritage
+  { printing = "snc/11", finish = "foil", at = "All" },  # Elspeth Resplendent
+  { printing = "mid/17", at = "All" },  # Enduring Angel // Angelic Enforcer
+  { printing = "psnc/12s", finish = "foil", at = "All" },  # Extraction Specialist
+  { printing = "mid/18", at = "All" },  # Fateful Absence
+  { printing = "xln/13", at = "All" },  # Goring Ceratops
+  { printing = "mic/86", at = "All" },  # Herald of War
+  { printing = "rna/11", qty = 2, at = "All" },  # Hero of Precinct One
+  { printing = "jmp/108", at = "All" },  # High Sentinels of Arashin
+  { printing = "ddn/66", qty = 2, at = "All" },  # Hold the Line
+  { printing = "mic/87", at = "All" },  # Hour of Reckoning
+  { printing = "war/18", at = "All" },  # Ignite the Beacon
+  { printing = "rna/12", at = "All" },  # Impassioned Orator
+  { printing = "c20/91", at = "All" },  # Increasing Devotion
+  { printing = "jmp/113", at = "All" },  # Isamaru, Hound of Konda
+  { printing = "cmr/28", at = "All" },  # Keleth, Sunmane Familiar
+  { printing = "c20/93", at = "All" },  # Knight of the White Orchid
+  { printing = "mic/88", at = "All" },  # Knight of the White Orchid
+  { printing = "jmp/116", qty = 2, at = "All" },  # Kor Spiritdancer
+  { printing = "grn/18", finish = "foil", at = "All" },  # Ledev Guardian
+  { printing = "m19/23", at = "All" },  # Leonin Warleader
+  { printing = "grn/19", at = "All" },  # Light of the Legion
+  { printing = "rna/15", finish = "foil", at = "All" },  # Lumbering Battlement
+  { printing = "c20/94", at = "All" },  # Magus of the Disk
+  { printing = "c20/28", at = "All" },  # Martial Impetus
+  { printing = "ema/19", at = "All" },  # Mesa Enchantress
+  { printing = "mic/89", at = "All" },  # Mikaeus, the Lunarch
+  { printing = "mic/7", at = "All" },  # Moorland Rescuer
+  { printing = "c20/96", qty = 2, at = "All" },  # Odric, Master Tactician
+  { printing = "hou/19", at = "All" },  # Overwhelming Splendor
+  { printing = "m21/29", finish = "foil", at = "All" },  # Pack Leader
+  { printing = "war/24", at = "All" },  # Parhelion II
+  { printing = "cmr/38", at = "All" },  # Prava of the Steel Legion
+  { printing = "xln/27", at = "All" },  # Priest of the Wakening Sun
+  { printing = "cmr/40", at = "All" },  # Radiant, Serra Archangel
+  { printing = "m19/33", finish = "foil", at = "All" },  # Remorseful Cleric
+  { printing = "mic/93", at = "All" },  # Riders of Gavony
+  { printing = "c20/98", at = "All" },  # Riders of Gavony
+  { printing = "iko/28", at = "All" },  # Sanctuary Lockdown
+  { printing = "xln/33", at = "All" },  # Sanguine Sacrament
+  { printing = "m19/284", at = "All" },  # Serra's Guardian
+  { printing = "mid/33", qty = 2, at = "All" },  # Sigarda's Splendor
+  { printing = "mic/8", at = "All" },  # Sigarda's Vanguard
+  { printing = "war/30", qty = 2, at = "All" },  # Single Combat
+  { printing = "cmr/47", at = "All" },  # Slash the Ranks
+  { printing = "cmr/50", at = "All" },  # Soul of Eternity
+  { printing = "rtr/24", at = "All" },  # Sphere of Safety
+  { printing = "mic/9", at = "All" },  # Stalwart Pathlighter
+  { printing = "c20/103", at = "All" },  # Thalia's Lieutenant
+  { printing = "c20/104", at = "All" },  # Thraben Doomsayer
+  { printing = "thb/40", at = "All" },  # Transcendent Envoy
+  { printing = "c20/1", finish = "foil", at = "All" },  # Trynn, Champion of Freedom
+  { printing = "mic/95", at = "All" },  # Unbreakable Formation
+  { printing = "rna/29", finish = "foil", at = "All" },  # Unbreakable Formation
+  { printing = "c20/106", at = "All" },  # Unexpectedly Absent
+  { printing = "pgrn/30p", at = "All" },  # Venerated Loxodon
+  { printing = "mic/96", at = "All" },  # Victory's Envoy
+  { printing = "mic/10", at = "All" },  # Wall of Mourning
   { printing = "war/244", at = "lands" },  # Blast Zone
   { printing = "iko/245", at = "lands" },  # Bonders' Enclave
   { printing = "rna/246", at = "lands" },  # Breeding Pool
@@ -1610,184 +1610,184 @@ cards = [
   { printing = "dft/33", finish = "foil", at = "Ad Collectors" },  # Tune Up
   { printing = "dft/149", at = "Ad Collectors" },  # Tyrox, Saurid Tyrant
   { printing = "dft/318", at = "Ad Collectors" },  # Veloheart Bike
-  { printing = "dft/250", at = "Ad" },  # Bleachbone Verge
-  { printing = "dft/113", at = "Ad" },  # Boommobile
-  { printing = "dft/191", at = "Ad" },  # Brightglass Gearhulk
-  { printing = "dft/7", at = "Ad" },  # Bulwark Ox
-  { printing = "dft/194", finish = "foil", at = "Ad" },  # Captain Howler, Sea Scourge
-  { printing = "dft/194", at = "Ad" },  # Captain Howler, Sea Scourge
-  { printing = "dft/195", qty = 2, at = "Ad" },  # Caradora, Heart of Alacria
-  { printing = "dft/349", at = "Ad" },  # Coalstoke Gearhulk
-  { printing = "dft/80", at = "Ad" },  # Cryptcaller Chariot
-  { printing = "dft/81", qty = 2, at = "Ad" },  # Cursecloth Wrappings
-  { printing = "dft/120", qty = 2, at = "Ad" },  # Daretti, Rocketeer Engineer
-  { printing = "dft/199", qty = 2, at = "Ad" },  # Debris Beetle
-  { printing = "dft/83", at = "Ad" },  # Demonic Junker
-  { printing = "dft/158", qty = 2, at = "Ad" },  # District Mascot
-  { printing = "dft/202", at = "Ad" },  # Explosive Getaway
-  { printing = "dft/346", at = "Ad" },  # Fearless Swashbuckler
-  { printing = "dft/386", qty = 2, at = "Ad" },  # Full Throttle
-  { printing = "dft/85", qty = 2, at = "Ad" },  # Gas Guzzler
-  { printing = "dft/313", at = "Ad" },  # Gastal Thrillroller
-  { printing = "dft/87", at = "Ad" },  # Gonti, Night Minister
-  { printing = "dft/15", qty = 3, at = "Ad" },  # Guardian Sunmare
-  { printing = "dft/134", at = "Ad" },  # Howlsquad Heavy
-  { printing = "dft/508", finish = "foil", at = "Ad" },  # Island
-  { printing = "dft/209", qty = 2, at = "Ad" },  # Ketramose, the New Dawn
-  { printing = "dft/210", qty = 2, at = "Ad" },  # Kolodin, Triumph Caster
-  { printing = "dft/168", at = "Ad" },  # Lumbering Worldwagon
-  { printing = "dft/213", qty = 2, at = "Ad" },  # Mendicant Core, Guidelight
-  { printing = "dft/51", qty = 2, at = "Ad" },  # Mindspring Merfolk
-  { printing = "dft/237", qty = 2, at = "Ad" },  # Monument to Endurance
-  { printing = "dft/257", qty = 2, at = "Ad" },  # Muraganda Raceway
-  { printing = "dft/52", at = "Ad" },  # Mu Yanling, Wind Rider
-  { printing = "dft/215", at = "Ad" },  # Oildeep Gearhulk
-  { printing = "dft/173", at = "Ad" },  # Oviya, Automech Artisan
-  { printing = "dft/377", qty = 2, at = "Ad" },  # Perilous Snare
-  { printing = "dft/54", at = "Ad" },  # Possession Engine
-  { printing = "dft/100", at = "Ad" },  # Quag Feast
-  { printing = "dft/218", finish = "foil", at = "Ad" },  # Redshift, Rocketeer Chief
-  { printing = "dft/218", at = "Ad" },  # Redshift, Rocketeer Chief
-  { printing = "dft/389", at = "Ad" },  # Regal Imperiosaur
-  { printing = "dft/56", at = "Ad" },  # Repurposing Bay
-  { printing = "dft/219", qty = 2, at = "Ad" },  # Riptide Gearhulk
-  { printing = "dft/260", at = "Ad" },  # Riverpyre Verge
-  { printing = "dft/221", at = "Ad" },  # Sab-Sunen, Luxa Embodied
-  { printing = "dft/222", at = "Ad" },  # Samut, the Driving Force
-  { printing = "dft/223", at = "Ad" },  # Sita Varma, Masked Racer
-  { printing = "dft/28", at = "Ad" },  # Skyseer's Chariot
-  { printing = "dft/296", at = "Ad" },  # Skyseer's Chariot
-  { printing = "dft/29", at = "Ad" },  # Spectacular Pileup
-  { printing = "dft/264", at = "Ad" },  # Sunbillow Verge
-  { printing = "dft/105", at = "Ad" },  # The Speed Demon
-  { printing = "dft/68", finish = "foil", at = "Ad" },  # Thopter Fabricator
-  { printing = "spg/85", at = "Ad" },  # Thoughtcast
-  { printing = "dft/183", at = "Ad" },  # Thunderous Velocipede
-  { printing = "dft/35", at = "Ad" },  # Valor's Flagship
-  { printing = "dft/36", at = "Ad" },  # Voyager Glidecar
-  { printing = "dft/505", finish = "foil", at = "Ad" },  # Wastewood Verge
-  { printing = "dft/74", qty = 2, at = "Ad" },  # Waxen Shapethief
-  { printing = "dft/444", finish = "foil", at = "Ad" },  # Waxen Shapethief
-  { printing = "spg/86", at = "Ad" },  # Whir of Invention
-  { printing = "dft/270", qty = 2, at = "Ad" },  # Willowrush Verge
-  { printing = "dft/370", at = "Ad" },  # Zahur, Glory's Past
-  { printing = "tdm/332", at = "Tarkir Dragonstorm" },  # Ambling Stormshell
-  { printing = "tdm/37", at = "Tarkir Dragonstorm" },  # Ambling Stormshell
-  { printing = "tdm/327", at = "Tarkir Dragonstorm" },  # Anafenza, Unyielding Lineage
-  { printing = "tdm/2", qty = 2, at = "Tarkir Dragonstorm" },  # Anafenza, Unyielding Lineage
-  { printing = "tdm/3", qty = 6, at = "Tarkir Dragonstorm" },  # Arashin Sunshield
-  { printing = "spg/109", at = "Tarkir Dragonstorm" },  # Arid Mesa
-  { printing = "tdm/73", at = "Tarkir Dragonstorm" },  # Avenger of the Fallen
-  { printing = "tdm/171", qty = 2, at = "Tarkir Dragonstorm" },  # Barrensteppe Siege
-  { printing = "tdm/4", qty = 5, at = "Tarkir Dragonstorm" },  # Bearer of Glory
-  { printing = "tdm/172", at = "Tarkir Dragonstorm" },  # Betor, Kin to All
-  { printing = "tdm/136", qty = 2, at = "Tarkir Dragonstorm" },  # Bloomvine Regent // Claim Territory
-  { printing = "tdm/174", at = "Tarkir Dragonstorm" },  # Call the Spirit Dragons
-  { printing = "tdm/5", qty = 2, at = "Tarkir Dragonstorm" },  # Clarion Conqueror
-  { printing = "tdm/377", at = "Tarkir Dragonstorm" },  # Clarion Conqueror // Clarion Conqueror
-  { printing = "tdm/6", qty = 6, at = "Tarkir Dragonstorm" },  # Coordinated Maneuver
-  { printing = "tdm/252", at = "Tarkir Dragonstorm" },  # Cori Mountain Monastery
-  { printing = "tdm/252", finish = "foil", at = "Tarkir Dragonstorm" },  # Cori Mountain Monastery
-  { printing = "tdm/343", at = "Tarkir Dragonstorm" },  # Cori-Steel Cutter
-  { printing = "tdm/103", at = "Tarkir Dragonstorm" },  # Cori-Steel Cutter
-  { printing = "tdm/253", at = "Tarkir Dragonstorm" },  # Dalkovan Encampment
-  { printing = "tdm/394", at = "Tarkir Dragonstorm" },  # Dalkovan Encampment
-  { printing = "tdm/7", qty = 2, at = "Tarkir Dragonstorm" },  # Dalkovan Packbeasts
-  { printing = "tdm/8", qty = 2, at = "Tarkir Dragonstorm" },  # Descendant of Storms
-  { printing = "tdm/179", at = "Tarkir Dragonstorm" },  # Dragonback Assault
-  { printing = "tdm/9", qty = 6, at = "Tarkir Dragonstorm" },  # Dragonback Lancer
-  { printing = "tdm/324", at = "Tarkir Dragonstorm" },  # Dragonfire Blade
-  { printing = "tdm/240", at = "Tarkir Dragonstorm" },  # Dragonfire Blade
-  { printing = "tdm/42", qty = 2, at = "Tarkir Dragonstorm" },  # Dragonologist
-  { printing = "tdm/10", qty = 2, at = "Tarkir Dragonstorm" },  # Duty Beyond Death
-  { printing = "tdm/11", at = "Tarkir Dragonstorm" },  # Elspeth, Storm Slayer
-  { printing = "tdm/182", finish = "foil", at = "Tarkir Dragonstorm" },  # Eshki Dragonclaw
-  { printing = "tdm/182", qty = 2, at = "Tarkir Dragonstorm" },  # Eshki Dragonclaw
-  { printing = "tdm/183", qty = 2, at = "Tarkir Dragonstorm" },  # Fangkeeper's Familiar
-  { printing = "tdm/184", at = "Tarkir Dragonstorm" },  # Felothar, Dawn of the Abzan
-  { printing = "tdm/185", at = "Tarkir Dragonstorm" },  # Flamehold Grappler
-  { printing = "tdm/12", qty = 5, at = "Tarkir Dragonstorm" },  # Fortress Kin-Guard
-  { printing = "tdm/385", qty = 2, at = "Tarkir Dragonstorm" },  # Frostcliff Siege
-  { printing = "tdm/187", at = "Tarkir Dragonstorm" },  # Frostcliff Siege
-  { printing = "tdm/13", qty = 3, at = "Tarkir Dragonstorm" },  # Furious Forebear
-  { printing = "tdm/189", qty = 2, at = "Tarkir Dragonstorm" },  # Glacierwood Siege
-  { printing = "tdm/257", qty = 3, at = "Tarkir Dragonstorm" },  # Great Arashin City
-  { printing = "tdm/257", finish = "foil", at = "Tarkir Dragonstorm" },  # Great Arashin City
-  { printing = "tdm/144", at = "Tarkir Dragonstorm" },  # Herd Heirloom
-  { printing = "tdm/192", at = "Tarkir Dragonstorm" },  # Hollowmurk Siege
-  { printing = "tdm/360", at = "Tarkir Dragonstorm" },  # Inevitable Defeat
-  { printing = "tdm/194", qty = 2, at = "Tarkir Dragonstorm" },  # Inevitable Defeat
-  { printing = "tdm/361", at = "Tarkir Dragonstorm" },  # Jeskai Revelation
-  { printing = "tdm/196", at = "Tarkir Dragonstorm" },  # Jeskai Revelation
-  { printing = "tdm/259", qty = 2, at = "Tarkir Dragonstorm" },  # Kishla Village
-  { printing = "tdm/362", at = "Tarkir Dragonstorm" },  # Kotis, the Fangkeeper
-  { printing = "tdm/202", at = "Tarkir Dragonstorm" },  # Kotis, the Fangkeeper
-  { printing = "tdm/149", at = "Tarkir Dragonstorm" },  # Lasyd Prowler
-  { printing = "tdm/14", qty = 5, at = "Tarkir Dragonstorm" },  # Lightfoot Technique
-  { printing = "tdm/204", at = "Tarkir Dragonstorm" },  # Lotuslight Dancers
-  { printing = "tdm/15", qty = 3, at = "Tarkir Dragonstorm" },  # Loxodon Battle Priest
-  { printing = "tdm/111", qty = 3, at = "Tarkir Dragonstorm" },  # Magmatic Hellkite
-  { printing = "tdm/51", qty = 2, at = "Tarkir Dragonstorm" },  # Marang River Regent // Coil and Catch
-  { name = "Marang River Regent // Coil and Catch", finish = "foil", at = "Tarkir Dragonstorm" },
-  { printing = "tdm/16", at = "Tarkir Dragonstorm" },  # Mardu Devotee
-  { printing = "tdm/206", at = "Tarkir Dragonstorm" },  # Mardu Siegebreaker
-  { printing = "spg/110", at = "Tarkir Dragonstorm" },  # Marsh Flats
-  { printing = "tdm/261", at = "Tarkir Dragonstorm" },  # Mistrise Village
-  { printing = "tdm/52", qty = 2, at = "Tarkir Dragonstorm" },  # Naga Fleshcrafter
-  { printing = "tdm/333", at = "Tarkir Dragonstorm" },  # Naga Fleshcrafter
-  { printing = "tdm/209", at = "Tarkir Dragonstorm" },  # Narset, Jeskai Waymaster
-  { printing = "tdm/209", finish = "foil", at = "Tarkir Dragonstorm" },  # Narset, Jeskai Waymaster
-  { printing = "tdm/150", at = "Tarkir Dragonstorm" },  # Nature's Rhythm
-  { printing = "tdm/210", qty = 2, at = "Tarkir Dragonstorm" },  # Neriv, Heart of the Storm
-  { printing = "tdm/211", at = "Tarkir Dragonstorm" },  # New Way Forward
-  { printing = "tdm/17", qty = 6, at = "Tarkir Dragonstorm" },  # Osseous Exhale
-  { printing = "tdm/18", qty = 5, at = "Tarkir Dragonstorm" },  # Poised Practitioner
-  { printing = "tdm/86", at = "Tarkir Dragonstorm" },  # Qarsi Revenant
-  { printing = "tdm/19", qty = 3, at = "Tarkir Dragonstorm" },  # Rally the Monastery
-  { printing = "tdm/20", qty = 6, at = "Tarkir Dragonstorm" },  # Rebellious Strike
-  { printing = "tdm/215", at = "Tarkir Dragonstorm" },  # Rediscover the Way
-  { printing = "tdm/218", qty = 2, at = "Tarkir Dragonstorm" },  # Revival of the Ancestors
-  { printing = "tdm/218", finish = "foil", at = "Tarkir Dragonstorm" },  # Revival of the Ancestors
-  { printing = "tdm/21", qty = 6, at = "Tarkir Dragonstorm" },  # Riling Dawnbreaker // Signaling Roar
-  { printing = "tdm/220", at = "Tarkir Dragonstorm" },  # Roar of Endless Song
-  { printing = "tdm/22", qty = 2, at = "Tarkir Dragonstorm" },  # Sage of the Skies
-  { printing = "tdm/23", qty = 5, at = "Tarkir Dragonstorm" },  # Salt Road Packbeast
-  { printing = "tdm/222", at = "Tarkir Dragonstorm" },  # Severance Priest
-  { printing = "tdm/92", at = "Tarkir Dragonstorm" },  # Sidisi, Regent of the Mire
-  { printing = "tdm/93", qty = 2, at = "Tarkir Dragonstorm" },  # Sinkhole Surveyor
-  { printing = "tdm/24", at = "Tarkir Dragonstorm" },  # Smile at Death
-  { printing = "tdm/122", at = "Tarkir Dragonstorm" },  # Stadium Headliner
-  { printing = "tdm/344", at = "Tarkir Dragonstorm" },  # Stadium Headliner
-  { printing = "tdm/25", qty = 2, at = "Tarkir Dragonstorm" },  # Starry-Eyed Skyrider
-  { printing = "tdm/26", at = "Tarkir Dragonstorm" },  # Static Snare
-  { printing = "tdm/59", qty = 2, at = "Tarkir Dragonstorm" },  # Stillness in Motion
-  { printing = "tdm/27", qty = 3, at = "Tarkir Dragonstorm" },  # Stormbeacon Blade
-  { printing = "tdm/28", qty = 7, at = "Tarkir Dragonstorm" },  # Stormplain Detainment
-  { printing = "tdm/123", finish = "foil", at = "Tarkir Dragonstorm" },  # Stormscale Scion
-  { printing = "tdm/123", at = "Tarkir Dragonstorm" },  # Stormscale Scion
-  { printing = "tdm/29", qty = 2, at = "Tarkir Dragonstorm" },  # Sunpearl Kirin
-  { printing = "tdm/161", at = "Tarkir Dragonstorm" },  # Surrak, Elusive Hunter
-  { printing = "tdm/350", at = "Tarkir Dragonstorm" },  # Surrak, Elusive Hunter
-  { printing = "tdm/60", at = "Tarkir Dragonstorm" },  # Taigam, Master Opportunist
-  { printing = "tdm/30", at = "Tarkir Dragonstorm" },  # Teeming Dragonstorm
-  { printing = "tdm/31", qty = 5, at = "Tarkir Dragonstorm" },  # Tempest Hawk
-  { printing = "tdm/228", qty = 2, at = "Tarkir Dragonstorm" },  # Temur Battlecrier
-  { printing = "tdm/127", at = "Tarkir Dragonstorm" },  # Tersa Lightshatter
-  { printing = "tdm/230", at = "Tarkir Dragonstorm" },  # Teval, Arbiter of Virtue
-  { printing = "tdm/91", qty = 2, at = "Tarkir Dragonstorm" },  # The Sibsig Ceremony
-  { printing = "tdm/231", at = "Tarkir Dragonstorm" },  # Thunder of Unity
-  { printing = "tdm/1", at = "Tarkir Dragonstorm" },  # Ugin, Eye of the Storms
-  { printing = "tdm/32", at = "Tarkir Dragonstorm" },  # United Battlefront
-  { printing = "tdm/233", at = "Tarkir Dragonstorm" },  # Ureni, the Song Unending
-  { printing = "tdm/33", qty = 2, at = "Tarkir Dragonstorm" },  # Voice of Victory
-  { printing = "tdm/166", at = "Tarkir Dragonstorm" },  # Warden of the Grove
-  { printing = "tdm/34", qty = 3, at = "Tarkir Dragonstorm" },  # Wayspeaker Bodyguard
-  { printing = "tdm/235", at = "Tarkir Dragonstorm" },  # Windcrag Siege
-  { printing = "tdm/67", at = "Tarkir Dragonstorm" },  # Winternight Stories
-  { printing = "tdm/236", qty = 2, at = "Tarkir Dragonstorm" },  # Yathan Roadwatcher
-  { printing = "tdm/375", at = "Tarkir Dragonstorm" },  # Yathan Roadwatcher
-  { printing = "tdm/237", at = "Tarkir Dragonstorm" },  # Zurgo, Thunder's Decree
-  { printing = "tdm/237", finish = "foil", at = "Tarkir Dragonstorm" },  # Zurgo, Thunder's Decree
+  { printing = "dft/250", at = "All" },  # Bleachbone Verge
+  { printing = "dft/113", at = "All" },  # Boommobile
+  { printing = "dft/191", at = "All" },  # Brightglass Gearhulk
+  { printing = "dft/7", at = "All" },  # Bulwark Ox
+  { printing = "dft/194", finish = "foil", at = "All" },  # Captain Howler, Sea Scourge
+  { printing = "dft/194", at = "All" },  # Captain Howler, Sea Scourge
+  { printing = "dft/195", qty = 2, at = "All" },  # Caradora, Heart of Alacria
+  { printing = "dft/349", at = "All" },  # Coalstoke Gearhulk
+  { printing = "dft/80", at = "All" },  # Cryptcaller Chariot
+  { printing = "dft/81", qty = 2, at = "All" },  # Cursecloth Wrappings
+  { printing = "dft/120", qty = 2, at = "All" },  # Daretti, Rocketeer Engineer
+  { printing = "dft/199", qty = 2, at = "All" },  # Debris Beetle
+  { printing = "dft/83", at = "All" },  # Demonic Junker
+  { printing = "dft/158", qty = 2, at = "All" },  # District Mascot
+  { printing = "dft/202", at = "All" },  # Explosive Getaway
+  { printing = "dft/346", at = "All" },  # Fearless Swashbuckler
+  { printing = "dft/386", qty = 2, at = "All" },  # Full Throttle
+  { printing = "dft/85", qty = 2, at = "All" },  # Gas Guzzler
+  { printing = "dft/313", at = "All" },  # Gastal Thrillroller
+  { printing = "dft/87", at = "All" },  # Gonti, Night Minister
+  { printing = "dft/15", qty = 3, at = "All" },  # Guardian Sunmare
+  { printing = "dft/134", at = "All" },  # Howlsquad Heavy
+  { printing = "dft/508", finish = "foil", at = "All" },  # Island
+  { printing = "dft/209", qty = 2, at = "All" },  # Ketramose, the New Dawn
+  { printing = "dft/210", qty = 2, at = "All" },  # Kolodin, Triumph Caster
+  { printing = "dft/168", at = "All" },  # Lumbering Worldwagon
+  { printing = "dft/213", qty = 2, at = "All" },  # Mendicant Core, Guidelight
+  { printing = "dft/51", qty = 2, at = "All" },  # Mindspring Merfolk
+  { printing = "dft/237", qty = 2, at = "All" },  # Monument to Endurance
+  { printing = "dft/257", qty = 2, at = "All" },  # Muraganda Raceway
+  { printing = "dft/52", at = "All" },  # Mu Yanling, Wind Rider
+  { printing = "dft/215", at = "All" },  # Oildeep Gearhulk
+  { printing = "dft/173", at = "All" },  # Oviya, Automech Artisan
+  { printing = "dft/377", qty = 2, at = "All" },  # Perilous Snare
+  { printing = "dft/54", at = "All" },  # Possession Engine
+  { printing = "dft/100", at = "All" },  # Quag Feast
+  { printing = "dft/218", finish = "foil", at = "All" },  # Redshift, Rocketeer Chief
+  { printing = "dft/218", at = "All" },  # Redshift, Rocketeer Chief
+  { printing = "dft/389", at = "All" },  # Regal Imperiosaur
+  { printing = "dft/56", at = "All" },  # Repurposing Bay
+  { printing = "dft/219", qty = 2, at = "All" },  # Riptide Gearhulk
+  { printing = "dft/260", at = "All" },  # Riverpyre Verge
+  { printing = "dft/221", at = "All" },  # Sab-Sunen, Luxa Embodied
+  { printing = "dft/222", at = "All" },  # Samut, the Driving Force
+  { printing = "dft/223", at = "All" },  # Sita Varma, Masked Racer
+  { printing = "dft/28", at = "All" },  # Skyseer's Chariot
+  { printing = "dft/296", at = "All" },  # Skyseer's Chariot
+  { printing = "dft/29", at = "All" },  # Spectacular Pileup
+  { printing = "dft/264", at = "All" },  # Sunbillow Verge
+  { printing = "dft/105", at = "All" },  # The Speed Demon
+  { printing = "dft/68", finish = "foil", at = "All" },  # Thopter Fabricator
+  { printing = "spg/85", at = "All" },  # Thoughtcast
+  { printing = "dft/183", at = "All" },  # Thunderous Velocipede
+  { printing = "dft/35", at = "All" },  # Valor's Flagship
+  { printing = "dft/36", at = "All" },  # Voyager Glidecar
+  { printing = "dft/505", finish = "foil", at = "All" },  # Wastewood Verge
+  { printing = "dft/74", qty = 2, at = "All" },  # Waxen Shapethief
+  { printing = "dft/444", finish = "foil", at = "All" },  # Waxen Shapethief
+  { printing = "spg/86", at = "All" },  # Whir of Invention
+  { printing = "dft/270", qty = 2, at = "All" },  # Willowrush Verge
+  { printing = "dft/370", at = "All" },  # Zahur, Glory's Past
+  { printing = "tdm/332", at = "All" },  # Ambling Stormshell
+  { printing = "tdm/37", at = "All" },  # Ambling Stormshell
+  { printing = "tdm/327", at = "All" },  # Anafenza, Unyielding Lineage
+  { printing = "tdm/2", qty = 2, at = "All" },  # Anafenza, Unyielding Lineage
+  { printing = "tdm/3", qty = 6, at = "All" },  # Arashin Sunshield
+  { printing = "spg/109", at = "All" },  # Arid Mesa
+  { printing = "tdm/73", at = "All" },  # Avenger of the Fallen
+  { printing = "tdm/171", qty = 2, at = "All" },  # Barrensteppe Siege
+  { printing = "tdm/4", qty = 5, at = "All" },  # Bearer of Glory
+  { printing = "tdm/172", at = "All" },  # Betor, Kin to All
+  { printing = "tdm/136", qty = 2, at = "All" },  # Bloomvine Regent // Claim Territory
+  { printing = "tdm/174", at = "All" },  # Call the Spirit Dragons
+  { printing = "tdm/5", qty = 2, at = "All" },  # Clarion Conqueror
+  { printing = "tdm/377", at = "All" },  # Clarion Conqueror // Clarion Conqueror
+  { printing = "tdm/6", qty = 6, at = "All" },  # Coordinated Maneuver
+  { printing = "tdm/252", at = "All" },  # Cori Mountain Monastery
+  { printing = "tdm/252", finish = "foil", at = "All" },  # Cori Mountain Monastery
+  { printing = "tdm/343", at = "All" },  # Cori-Steel Cutter
+  { printing = "tdm/103", at = "All" },  # Cori-Steel Cutter
+  { printing = "tdm/253", at = "All" },  # Dalkovan Encampment
+  { printing = "tdm/394", at = "All" },  # Dalkovan Encampment
+  { printing = "tdm/7", qty = 2, at = "All" },  # Dalkovan Packbeasts
+  { printing = "tdm/8", qty = 2, at = "All" },  # Descendant of Storms
+  { printing = "tdm/179", at = "All" },  # Dragonback Assault
+  { printing = "tdm/9", qty = 6, at = "All" },  # Dragonback Lancer
+  { printing = "tdm/324", at = "All" },  # Dragonfire Blade
+  { printing = "tdm/240", at = "All" },  # Dragonfire Blade
+  { printing = "tdm/42", qty = 2, at = "All" },  # Dragonologist
+  { printing = "tdm/10", qty = 2, at = "All" },  # Duty Beyond Death
+  { printing = "tdm/11", at = "All" },  # Elspeth, Storm Slayer
+  { printing = "tdm/182", finish = "foil", at = "All" },  # Eshki Dragonclaw
+  { printing = "tdm/182", qty = 2, at = "All" },  # Eshki Dragonclaw
+  { printing = "tdm/183", qty = 2, at = "All" },  # Fangkeeper's Familiar
+  { printing = "tdm/184", at = "All" },  # Felothar, Dawn of the Abzan
+  { printing = "tdm/185", at = "All" },  # Flamehold Grappler
+  { printing = "tdm/12", qty = 5, at = "All" },  # Fortress Kin-Guard
+  { printing = "tdm/385", qty = 2, at = "All" },  # Frostcliff Siege
+  { printing = "tdm/187", at = "All" },  # Frostcliff Siege
+  { printing = "tdm/13", qty = 3, at = "All" },  # Furious Forebear
+  { printing = "tdm/189", qty = 2, at = "All" },  # Glacierwood Siege
+  { printing = "tdm/257", qty = 3, at = "All" },  # Great Arashin City
+  { printing = "tdm/257", finish = "foil", at = "All" },  # Great Arashin City
+  { printing = "tdm/144", at = "All" },  # Herd Heirloom
+  { printing = "tdm/192", at = "All" },  # Hollowmurk Siege
+  { printing = "tdm/360", at = "All" },  # Inevitable Defeat
+  { printing = "tdm/194", qty = 2, at = "All" },  # Inevitable Defeat
+  { printing = "tdm/361", at = "All" },  # Jeskai Revelation
+  { printing = "tdm/196", at = "All" },  # Jeskai Revelation
+  { printing = "tdm/259", qty = 2, at = "All" },  # Kishla Village
+  { printing = "tdm/362", at = "All" },  # Kotis, the Fangkeeper
+  { printing = "tdm/202", at = "All" },  # Kotis, the Fangkeeper
+  { printing = "tdm/149", at = "All" },  # Lasyd Prowler
+  { printing = "tdm/14", qty = 5, at = "All" },  # Lightfoot Technique
+  { printing = "tdm/204", at = "All" },  # Lotuslight Dancers
+  { printing = "tdm/15", qty = 3, at = "All" },  # Loxodon Battle Priest
+  { printing = "tdm/111", qty = 3, at = "All" },  # Magmatic Hellkite
+  { printing = "tdm/51", qty = 2, at = "All" },  # Marang River Regent // Coil and Catch
+  { name = "Marang River Regent // Coil and Catch", finish = "foil", at = "All" },
+  { printing = "tdm/16", at = "All" },  # Mardu Devotee
+  { printing = "tdm/206", at = "All" },  # Mardu Siegebreaker
+  { printing = "spg/110", at = "All" },  # Marsh Flats
+  { printing = "tdm/261", at = "All" },  # Mistrise Village
+  { printing = "tdm/52", qty = 2, at = "All" },  # Naga Fleshcrafter
+  { printing = "tdm/333", at = "All" },  # Naga Fleshcrafter
+  { printing = "tdm/209", at = "All" },  # Narset, Jeskai Waymaster
+  { printing = "tdm/209", finish = "foil", at = "All" },  # Narset, Jeskai Waymaster
+  { printing = "tdm/150", at = "All" },  # Nature's Rhythm
+  { printing = "tdm/210", qty = 2, at = "All" },  # Neriv, Heart of the Storm
+  { printing = "tdm/211", at = "All" },  # New Way Forward
+  { printing = "tdm/17", qty = 6, at = "All" },  # Osseous Exhale
+  { printing = "tdm/18", qty = 5, at = "All" },  # Poised Practitioner
+  { printing = "tdm/86", at = "All" },  # Qarsi Revenant
+  { printing = "tdm/19", qty = 3, at = "All" },  # Rally the Monastery
+  { printing = "tdm/20", qty = 6, at = "All" },  # Rebellious Strike
+  { printing = "tdm/215", at = "All" },  # Rediscover the Way
+  { printing = "tdm/218", qty = 2, at = "All" },  # Revival of the Ancestors
+  { printing = "tdm/218", finish = "foil", at = "All" },  # Revival of the Ancestors
+  { printing = "tdm/21", qty = 6, at = "All" },  # Riling Dawnbreaker // Signaling Roar
+  { printing = "tdm/220", at = "All" },  # Roar of Endless Song
+  { printing = "tdm/22", qty = 2, at = "All" },  # Sage of the Skies
+  { printing = "tdm/23", qty = 5, at = "All" },  # Salt Road Packbeast
+  { printing = "tdm/222", at = "All" },  # Severance Priest
+  { printing = "tdm/92", at = "All" },  # Sidisi, Regent of the Mire
+  { printing = "tdm/93", qty = 2, at = "All" },  # Sinkhole Surveyor
+  { printing = "tdm/24", at = "All" },  # Smile at Death
+  { printing = "tdm/122", at = "All" },  # Stadium Headliner
+  { printing = "tdm/344", at = "All" },  # Stadium Headliner
+  { printing = "tdm/25", qty = 2, at = "All" },  # Starry-Eyed Skyrider
+  { printing = "tdm/26", at = "All" },  # Static Snare
+  { printing = "tdm/59", qty = 2, at = "All" },  # Stillness in Motion
+  { printing = "tdm/27", qty = 3, at = "All" },  # Stormbeacon Blade
+  { printing = "tdm/28", qty = 7, at = "All" },  # Stormplain Detainment
+  { printing = "tdm/123", finish = "foil", at = "All" },  # Stormscale Scion
+  { printing = "tdm/123", at = "All" },  # Stormscale Scion
+  { printing = "tdm/29", qty = 2, at = "All" },  # Sunpearl Kirin
+  { printing = "tdm/161", at = "All" },  # Surrak, Elusive Hunter
+  { printing = "tdm/350", at = "All" },  # Surrak, Elusive Hunter
+  { printing = "tdm/60", at = "All" },  # Taigam, Master Opportunist
+  { printing = "tdm/30", at = "All" },  # Teeming Dragonstorm
+  { printing = "tdm/31", qty = 5, at = "All" },  # Tempest Hawk
+  { printing = "tdm/228", qty = 2, at = "All" },  # Temur Battlecrier
+  { printing = "tdm/127", at = "All" },  # Tersa Lightshatter
+  { printing = "tdm/230", at = "All" },  # Teval, Arbiter of Virtue
+  { printing = "tdm/91", qty = 2, at = "All" },  # The Sibsig Ceremony
+  { printing = "tdm/231", at = "All" },  # Thunder of Unity
+  { printing = "tdm/1", at = "All" },  # Ugin, Eye of the Storms
+  { printing = "tdm/32", at = "All" },  # United Battlefront
+  { printing = "tdm/233", at = "All" },  # Ureni, the Song Unending
+  { printing = "tdm/33", qty = 2, at = "All" },  # Voice of Victory
+  { printing = "tdm/166", at = "All" },  # Warden of the Grove
+  { printing = "tdm/34", qty = 3, at = "All" },  # Wayspeaker Bodyguard
+  { printing = "tdm/235", at = "All" },  # Windcrag Siege
+  { printing = "tdm/67", at = "All" },  # Winternight Stories
+  { printing = "tdm/236", qty = 2, at = "All" },  # Yathan Roadwatcher
+  { printing = "tdm/375", at = "All" },  # Yathan Roadwatcher
+  { printing = "tdm/237", at = "All" },  # Zurgo, Thunder's Decree
+  { printing = "tdm/237", finish = "foil", at = "All" },  # Zurgo, Thunder's Decree
   { printing = "msh/4", qty = 2, at = "MSH Rares" },  # Agent Phil Coulson
   { printing = "msh/243", qty = 2, at = "MSH Rares" },  # Arc Reactor
   { printing = "msh/202", at = "MSH Rares" },  # Ares, God of War
@@ -5506,7 +5506,6 @@ omnath = {}
 duskmourn = {}
 foundations = {}
 "Ad Collectors" = {}
-Ad = {}
 "Tarkir Dragonstorm" = {}
 "MSH Rares" = {}
 "wilds of eldraine rares" = {}
